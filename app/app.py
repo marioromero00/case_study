@@ -127,7 +127,7 @@ st.dataframe(
     var_df.style
         .format({"precio_actual": "{:.2f}"})
         .format({c: lambda v: f"{v:+.1f}%" if v == v else "—" for c in delta_cols})
-        .applymap(_color_delta, subset=delta_cols),
+        .map(_color_delta, subset=delta_cols),
     use_container_width=True,
 )
 
