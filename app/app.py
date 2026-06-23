@@ -29,7 +29,6 @@ from src.forecasting import (
 
 from src.utils import (
     plot_single_forecast,
-    business_summary,
     price_variation_summary,
 )
 
@@ -173,29 +172,6 @@ if st.button("🚀 Reentrenar y Forecast"):
             forecast_df = generate_forecast_all(wide_updated, best_model, horizon=HORIZON)
 
         save_forecast(forecast_df, ROOT / "data" / "forecasts" / "forecast_latest.csv")
-
-    # -----------------------
-    # Tabla: variación + forecast
-    # -----------------------
-
-    st.subheader("Variación histórica y forecast")
-
-    biz = pd.DataFrame(business_summary(wide_updated, forecast_df)).set_index("serie")
-    combined = var_df.join(biz[["forecast_6m", "forecast_18m", "var_18m_%"]])
-    pct_cols = [c for c in combined.columns if c.startswith("Δ")] + ["var_18m_%"]
-
-    def _color_pct(val):
-        if val is None or (isinstance(val, float) and pd.isna(val)):
-            return ""
-        return "color: #2a9d8f" if val > 0 else "color: #c1502e" if val < 0 else ""
-
-    st.dataframe(
-        combined.style
-            .format("{:.2f}", subset=["precio_actual", "forecast_6m", "forecast_18m"])
-            .format(lambda v: f"{v:+.1f}%" if pd.notna(v) else "—", subset=pct_cols)
-            .map(_color_pct, subset=pct_cols),
-        use_container_width=True,
-    )
 
     # -----------------------
     # Gráfico por serie
