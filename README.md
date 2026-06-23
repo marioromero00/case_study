@@ -147,6 +147,8 @@ Histórico base
 
 La función `append_incremental` ya implementa la lógica de carga incremental, y la carpeta `app/` contiene una primera versión funcional de la interfaz: el flujo "subir CSV de la semana → forecast actualizado" es demostrable, no solo conceptual.
 
+MVP ppta digial funcional: https://salmonforecasting.streamlit.app/
+
 ---
 
 ## 9. Riesgos, limitaciones y próximos pasos
