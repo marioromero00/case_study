@@ -1,3 +1,4 @@
+import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
@@ -85,6 +86,25 @@ def plot_forecast_plotly(series, forecast_df, title=None, color=None):
     )
 
     return fig
+
+
+def price_variation_summary(wide):
+    periods = {"1m (4s)": 4, "3m (13s)": 13, "6m (26s)": 26, "18m (78s)": 78}
+    rows = []
+    for col in wide.columns:
+        s = wide[col].dropna()
+        if s.empty:
+            continue
+        current = s.iloc[-1]
+        row = {"serie": col, "precio_actual": round(current, 2)}
+        for label, n in periods.items():
+            if len(s) > n:
+                past = s.iloc[-(n + 1)]
+                row[f"Δ {label}"] = round((current / past - 1) * 100, 1)
+            else:
+                row[f"Δ {label}"] = None
+        rows.append(row)
+    return pd.DataFrame(rows).set_index("serie")
 
 
 def business_summary(wide, forecast_df):

@@ -29,7 +29,8 @@ from src.forecasting import (
 
 from src.utils import (
     plot_single_forecast,
-    business_summary
+    business_summary,
+    price_variation_summary,
 )
 
 st.set_page_config(
@@ -105,6 +106,29 @@ wide_updated = append_incremental(
 
 st.success(
     f"Histórico actualizado: {wide_updated.shape[0]} semanas"
+)
+
+# ---------------------------
+# Variación de precios recientes
+# ---------------------------
+
+st.subheader("📊 Variación de precios recientes")
+
+var_df = price_variation_summary(wide_updated)
+
+delta_cols = [c for c in var_df.columns if c.startswith("Δ")]
+
+def _color_delta(val):
+    if val is None or (isinstance(val, float) and pd.isna(val)):
+        return ""
+    return "color: #2a9d8f" if val > 0 else "color: #c1502e" if val < 0 else ""
+
+st.dataframe(
+    var_df.style
+        .format({"precio_actual": "{:.2f}"})
+        .format({c: lambda v: f"{v:+.1f}%" if v == v else "—" for c in delta_cols})
+        .applymap(_color_delta, subset=delta_cols),
+    use_container_width=True,
 )
 
 # ---------------------------

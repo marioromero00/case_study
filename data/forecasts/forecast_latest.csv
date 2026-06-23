@@ -1,469 +1,469 @@
-fecha,forecast,serie,modelo,producto,calibre,unidad
-2026-04-06,7.938000000000001,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-04-13,8.0559,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-04-20,7.9622,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-04-27,7.5245,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-05-04,6.9978,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-05-11,7.30595,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-05-18,7.043049999999999,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-05-25,7.06365,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-06-01,6.8288,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-06-08,6.7,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-06-15,6.57625,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-06-22,6.4366,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-06-29,6.2323,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-07-06,6.37255,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-07-13,6.4854,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-07-20,6.66675,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-07-27,6.2569,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-08-03,6.2895,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-08-10,6.2129,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-08-17,6.1498,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-08-24,5.829700000000001,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-08-31,5.61935,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-09-07,5.75565,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-09-14,5.68795,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-09-21,5.40815,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-09-28,5.3672,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-10-05,5.62545,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-10-12,6.01385,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-10-19,5.70715,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-10-26,5.50545,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-11-02,5.5918,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-11-09,5.61365,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-11-16,5.95575,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-11-23,6.2918,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-11-30,5.98475,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-12-07,5.706049999999999,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-12-14,5.5064,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-12-21,5.391,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-12-28,5.3454,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-01-04,6.07315,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-01-11,6.3689,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-01-18,7.13255,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-01-25,7.9087,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-02-01,7.5821000000000005,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-02-08,7.087400000000001,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-02-15,6.705299999999999,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-02-22,6.09335,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-03-01,5.9,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-03-08,6.1979500000000005,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-03-15,6.9014500000000005,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-03-22,6.9773,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-03-29,8.895,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-04-05,7.938000000000001,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-04-12,8.0559,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-04-19,7.9622,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-04-26,7.5245,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-05-03,6.9978,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-05-10,7.30595,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-05-17,7.043049999999999,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-05-24,7.06365,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-05-31,6.8288,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-06-07,6.7,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-06-14,6.57625,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-06-21,6.4366,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-06-28,6.2323,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-07-05,6.37255,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-07-12,6.4854,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-07-19,6.66675,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-07-26,6.2569,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-08-02,6.2895,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-08-09,6.2129,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-08-16,6.1498,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-08-23,5.829700000000001,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-08-30,5.61935,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-09-06,5.75565,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-09-13,5.68795,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-09-20,5.40815,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2027-09-27,5.3672,Brazil HON|10-12 lb,Naive estacional,Brazil HON,10-12 lb,USD/kg
-2026-04-06,8.04575,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-04-13,8.19005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-04-20,8.080649999999999,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-04-27,7.65635,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-05-04,7.084,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-05-11,7.3159,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-05-18,7.18705,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-05-25,7.1154,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-06-01,6.8659,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-06-08,6.8967,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-06-15,6.7153,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-06-22,6.52825,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-06-29,6.4533000000000005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-07-06,6.4612,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-07-13,6.6031,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-07-20,6.7796,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-07-27,6.3169,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-08-03,6.3336,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-08-10,6.3134,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-08-17,6.2303,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-08-24,5.7367,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-08-31,5.694850000000001,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-09-07,5.8628,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-09-14,5.77305,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-09-21,5.50335,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-09-28,5.46265,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-10-05,5.7664,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-10-12,6.16355,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-10-19,5.8126,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-10-26,5.60765,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-11-02,5.7025500000000005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-11-09,5.7079,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-11-16,6.0374,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-11-23,6.3878,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-11-30,6.07285,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-12-07,5.803800000000001,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-12-14,5.60745,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-12-21,5.51585,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-12-28,5.4473,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-01-04,6.19355,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-01-11,6.44115,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-01-18,7.21295,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-01-25,8.05,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-02-01,7.7059999999999995,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-02-08,7.2395,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-02-15,6.7795000000000005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-02-22,6.20515,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-03-01,6.0037,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-03-08,6.2898,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-03-15,6.98535,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-03-22,7.06895,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-03-29,9.07,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-04-05,8.04575,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-04-12,8.19005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-04-19,8.080649999999999,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-04-26,7.65635,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-05-03,7.084,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-05-10,7.3159,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-05-17,7.18705,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-05-24,7.1154,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-05-31,6.8659,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-06-07,6.8967,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-06-14,6.7153,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-06-21,6.52825,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-06-28,6.4533000000000005,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-07-05,6.4612,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-07-12,6.6031,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-07-19,6.7796,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-07-26,6.3169,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-08-02,6.3336,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-08-09,6.3134,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-08-16,6.2303,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-08-23,5.7367,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-08-30,5.694850000000001,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-09-06,5.8628,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-09-13,5.77305,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-09-20,5.50335,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2027-09-27,5.46265,Brazil HON|12-14 lb,Naive estacional,Brazil HON,12-14 lb,USD/kg
-2026-04-06,8.17395,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-04-13,8.2497,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-04-20,8.1351,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-04-27,7.6836,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-05-04,7.1803,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-05-11,7.4658999999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-05-18,7.2677499999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-05-25,7.19955,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-06-01,6.91625,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-06-08,6.987399999999999,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-06-15,6.7581500000000005,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-06-22,6.70725,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-06-29,6.7,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-07-06,6.550000000000001,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-07-13,6.7165,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-07-20,6.88205,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-07-27,6.4301,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-08-03,6.4492,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-08-10,6.4171,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-08-17,6.3583,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-08-24,5.8411,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-08-31,5.867699999999999,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-09-07,5.92515,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-09-14,5.8832,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-09-21,5.56085,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-09-28,5.6242,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-10-05,5.7141,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-10-12,6.2124,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-10-19,5.9495,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-10-26,5.61575,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-11-02,5.80505,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-11-09,5.9,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-11-16,6.1101,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-11-23,6.571350000000001,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-11-30,6.3711,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-12-07,6.006349999999999,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-12-14,5.8252500000000005,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-12-21,5.72495,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-12-28,5.6131,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-01-04,6.32095,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-01-11,6.56415,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-01-18,7.0913,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-01-25,8.15,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-02-01,7.8124,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-02-08,7.33995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-02-15,6.923,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-02-22,6.3121,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-03-01,6.1466,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-03-08,6.4209499999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-03-15,7.15695,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-03-22,7.1747499999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-03-29,9.205,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-04-05,8.17395,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-04-12,8.2497,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-04-19,8.1351,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-04-26,7.6836,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-05-03,7.1803,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-05-10,7.4658999999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-05-17,7.2677499999999995,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-05-24,7.19955,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-05-31,6.91625,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-06-07,6.987399999999999,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-06-14,6.7581500000000005,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-06-21,6.70725,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-06-28,6.7,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-07-05,6.550000000000001,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-07-12,6.7165,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-07-19,6.88205,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-07-26,6.4301,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-08-02,6.4492,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-08-09,6.4171,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-08-16,6.3583,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-08-23,5.8411,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-08-30,5.867699999999999,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-09-06,5.92515,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-09-13,5.8832,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-09-20,5.56085,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2027-09-27,5.6242,Brazil HON|14-16 lb,Naive estacional,Brazil HON,14-16 lb,USD/kg
-2026-04-06,6.5075,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-04-13,6.5859,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-04-20,6.4465,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-04-27,6.3867,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-05-04,6.5571,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-05-11,6.5604,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-05-18,6.808,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-05-25,6.924,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-06-01,6.6651,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-06-08,6.4795,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-06-15,6.3866,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-06-22,6.0225,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-06-29,5.7585,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-07-06,5.5607,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-07-13,5.7162,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-07-20,5.5984,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-07-27,5.4344,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-08-03,5.372,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-08-10,5.3464,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-08-17,5.2739,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-08-24,5.2726,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-08-31,5.2165,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-09-07,5.2139,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-09-14,5.1695,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-09-21,5.2334,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-09-28,5.2112,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-10-05,5.2324,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-10-12,5.4714,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-10-19,5.3523,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-10-26,5.3522,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-11-02,5.1504,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-11-09,5.0815,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-11-16,5.1003,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-11-23,5.4412,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-11-30,5.3758,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-12-07,5.2656,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-12-14,5.2095,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-12-21,5.2649,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-12-28,5.2234,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-01-04,5.4045,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-01-11,5.8374,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-01-18,6.282,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-01-25,6.5791,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-02-01,6.5608,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-02-08,6.5316,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-02-15,6.0663,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-02-22,5.8258,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-03-01,5.809,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-03-08,6.1026,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-03-15,6.4467,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-03-22,6.4627,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-03-29,6.72,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-04-05,6.5075,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-04-12,6.5859,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-04-19,6.4465,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-04-26,6.3867,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-05-03,6.5571,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-05-10,6.5604,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-05-17,6.808,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-05-24,6.924,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-05-31,6.6651,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-06-07,6.4795,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-06-14,6.3866,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-06-21,6.0225,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-06-28,5.7585,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-07-05,5.5607,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-07-12,5.7162,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-07-19,5.5984,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-07-26,5.4344,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-08-02,5.372,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-08-09,5.3464,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-08-16,5.2739,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-08-23,5.2726,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-08-30,5.2165,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-09-06,5.2139,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-09-13,5.1695,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-09-20,5.2334,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2027-09-27,5.2112,USA Fillet|2/3,Naive estacional,USA Fillet,2/3,USD/lb
-2026-04-06,6.5896,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-04-13,6.592,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-04-20,6.5319,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-04-27,6.4978,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-05-04,6.822,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-05-11,6.7879,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-05-18,6.8441,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-05-25,6.8481,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-06-01,6.6122,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-06-08,6.4827,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-06-15,6.4339,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-06-22,6.1644,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-06-29,5.8597,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-07-06,5.7659,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-07-13,5.8165,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-07-20,5.827,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-07-27,5.5766,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-08-03,5.5152,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-08-10,5.4457,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-08-17,5.3922,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-08-24,5.4275,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-08-31,5.3298,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-09-07,5.3307,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-09-14,5.2661,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-09-21,5.271,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-09-28,5.2452,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-10-05,5.2667,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-10-12,5.5459,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-10-19,5.4622,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-10-26,5.3608,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-11-02,5.2106,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-11-09,5.1278,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-11-16,5.143,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-11-23,5.4912,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-11-30,5.4509,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-12-07,5.3459,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-12-14,5.1864,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-12-21,5.147,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-12-28,5.2883,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-01-04,5.3966,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-01-11,5.816,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-01-18,6.3101,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-01-25,6.6175,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-02-01,6.6006,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-02-08,6.5791,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-02-15,6.1562,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-02-22,5.975,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-03-01,5.9379,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-03-08,6.1793,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-03-15,6.4103,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-03-22,6.5609,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-03-29,6.89,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-04-05,6.5896,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-04-12,6.592,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-04-19,6.5319,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-04-26,6.4978,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-05-03,6.822,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-05-10,6.7879,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-05-17,6.8441,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-05-24,6.8481,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-05-31,6.6122,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-06-07,6.4827,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-06-14,6.4339,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-06-21,6.1644,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-06-28,5.8597,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-07-05,5.7659,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-07-12,5.8165,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-07-19,5.827,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-07-26,5.5766,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-08-02,5.5152,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-08-09,5.4457,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-08-16,5.3922,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-08-23,5.4275,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-08-30,5.3298,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-09-06,5.3307,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-09-13,5.2661,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-09-20,5.271,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2027-09-27,5.2452,USA Fillet|3/4,Naive estacional,USA Fillet,3/4,USD/lb
-2026-04-06,6.5896,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-04-13,6.7019,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-04-20,6.6494,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-04-27,6.5829,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-05-04,6.8992,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-05-11,6.8815,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-05-18,6.9193,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-05-25,6.9674,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-06-01,6.7348,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-06-08,6.5234,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-06-15,6.5292,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-06-22,6.2747,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-06-29,6.0003,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-07-06,5.936,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-07-13,5.9623,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-07-20,5.956,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-07-27,5.828,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-08-03,5.6824,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-08-10,5.764,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-08-17,5.6634,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-08-24,5.7114,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-08-31,5.5718,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-09-07,5.6272,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-09-14,5.5795,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-09-21,5.4057,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-09-28,5.4028,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-10-05,5.5269,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-10-12,5.7405,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-10-19,5.6313,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-10-26,5.6867,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-11-02,5.4346,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-11-09,5.4717,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-11-16,5.4026,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-11-23,5.6228,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-11-30,5.4982,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-12-07,5.499,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-12-14,5.4957,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-12-21,5.2012,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2026-12-28,5.5569,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-01-04,5.6479,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-01-11,6.0139,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-01-18,6.4361,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-01-25,6.6094,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-02-01,6.6708,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-02-08,6.6306,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-02-15,6.3765,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-02-22,6.1537,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-03-01,6.0728,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-03-08,6.3488,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-03-15,6.3245,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-03-22,6.6387,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-03-29,7.05,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-04-05,6.5896,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-04-12,6.7019,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-04-19,6.6494,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-04-26,6.5829,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-05-03,6.8992,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-05-10,6.8815,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-05-17,6.9193,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-05-24,6.9674,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-05-31,6.7348,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-06-07,6.5234,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-06-14,6.5292,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-06-21,6.2747,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-06-28,6.0003,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-07-05,5.936,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-07-12,5.9623,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-07-19,5.956,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-07-26,5.828,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-08-02,5.6824,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-08-09,5.764,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-08-16,5.6634,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-08-23,5.7114,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-08-30,5.5718,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-09-06,5.6272,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-09-13,5.5795,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-09-20,5.4057,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
-2027-09-27,5.4028,USA Fillet|4/5,Naive estacional,USA Fillet,4/5,USD/lb
+fecha,forecast_lower,forecast,forecast_upper,serie,modelo,producto,calibre,unidad
+2026-04-06,6.949178218825394,7.79493689947149,8.333749078414682,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-04-13,6.605124253342679,7.6978145440102805,8.06155939842686,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-04-20,6.498869663048439,7.586415051894607,7.909586105197632,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-04-27,6.580469072090311,7.389461661696173,7.966919525318483,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-05-04,6.567517394476447,7.16453153382974,7.977896919404514,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-05-11,6.561670788312319,7.300339770752153,8.019902314019204,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-05-18,6.384793832866214,7.065210054430097,7.75189827840642,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-05-25,6.062719969275826,6.9094500226072135,7.436497882909568,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-06-01,5.731986911718563,6.619266918697502,7.075638160819881,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-06-08,5.454665675306891,6.437199386783035,6.8296369982415355,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-06-15,5.410294097483908,6.35050487567457,6.835569382197492,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-06-22,5.517131936447727,6.335736523895919,6.9173723953589645,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-06-29,5.66329398595299,6.305700654605847,7.085599910265358,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-07-06,5.684998784270918,6.395415469192093,7.094405764712289,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-07-13,5.604559964630934,6.398344219037337,7.0457432843462255,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-07-20,5.461797550374188,6.403113472322116,6.856365532936953,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-07-27,5.308095450738914,6.132114796917842,6.705268863583261,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-08-03,5.20840104888168,6.1068355525795255,6.595159939833007,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-08-10,5.115904845807785,6.009878824108518,6.488026967829731,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-08-17,4.8975517062913925,5.878454675043563,6.328545817983269,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-08-24,4.732157376025723,5.619365990437826,6.1154656792290805,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-08-31,4.6982799359593095,5.490668904634855,6.091561949613008,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-09-07,4.7355619380104494,5.631798423012874,6.213997383714648,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-09-14,4.982297711147648,5.696463180619329,6.405173128556016,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-09-21,5.058699044182035,5.581828905933351,6.47587027763336,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-09-28,4.916670637876801,5.489788059781506,6.343375294429356,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-10-05,4.655937469395356,5.5293191963730095,6.114424939350588,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-10-12,4.717001608729832,5.7146603082348495,6.150606653178636,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-10-19,4.823125953554308,5.649058056238241,6.29869018373948,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-10-26,5.090902917761982,5.653862928697139,6.43681773070371,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-11-02,5.179686746735857,5.734543707510994,6.589014331115669,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-11-09,5.119417950926192,5.706951987851679,6.520354822876314,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-11-16,4.951309597117063,5.828018649177299,6.426568674635309,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-11-23,4.917097110524718,5.9949544638273675,6.416466260840546,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-11-30,5.128481983014526,5.893223408106002,6.532569070088017,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-12-07,5.259874282076472,5.8300058243814386,6.687109707679054,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-12-14,5.407567765556769,5.822320556577908,6.821199213858981,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-12-21,5.7051893266180915,5.890424882252556,7.081898605180955,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-12-28,5.985642061891809,6.0245518823884066,7.396854366197967,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-01-04,6.2481783556448915,6.52440163542261,7.670885547553389,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-01-11,6.357528159869004,6.722610315447922,7.756905074518163,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-01-18,6.324936507907035,7.057815762619581,7.755864320695858,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-01-25,6.076061166098696,7.360675644406772,7.538975013225999,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-02-01,6.013401473920009,7.146901652338464,7.486292601942755,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-02-08,6.0352466161158445,6.909681417486104,7.429899604026639,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-02-15,6.141811408747663,6.766614614443032,7.488500736423775,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-02-22,6.266371123837097,6.5258494975207455,7.689820855802572,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-03-01,6.494211088264758,6.523391256493449,7.831190402186966,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-03-08,6.694378596634345,6.808514823548521,8.13686101879327,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-03-15,6.984663947099232,7.302695533388089,8.341225624872802,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-03-22,7.097391073458898,7.409599525665038,8.532005928500789,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-03-29,7.012223771907406,8.30789267645824,8.369226424968844,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-04-05,6.6644321899191254,7.6675363641181296,8.068969979883958,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-04-12,6.366035951403873,7.5606822894814165,7.7935067807926925,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-04-19,6.184620306372171,7.431148465889994,7.580729234880699,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-04-26,6.211516653101508,7.223128976220161,7.586806306500915,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-05-03,6.302241523583021,7.001759119604159,7.742997238583537,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-05-10,6.267572904449833,7.151797444745491,7.72329023153404,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-05-17,6.112731098597451,6.931950641620969,7.55751282859607,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-05-24,5.7710578008551625,6.784253437677792,7.2065920567262225,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-05-31,5.453746841337469,6.490937109372302,6.7849756340097285,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-06-07,5.180229848918755,6.2955519403435325,6.634833818608059,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-06-14,5.121096080719136,6.191943471774666,6.541819212493338,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-06-21,5.196015957429639,6.1668236555168585,6.572882573518105,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-06-28,5.313689748876507,6.139862652016344,6.807667709475155,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-07-05,5.416250554319425,6.24282523723096,6.776895797090628,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-07-12,5.2470156030005715,6.257629773248524,6.760459723146809,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-07-19,5.135347933463366,6.264147979774146,6.573455202924378,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-07-26,4.972978369212429,5.987844930232736,6.430665495907958,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-08-02,4.871046629351582,5.9609359947650935,6.344899676921745,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-08-09,4.830728697426856,5.870696577668482,6.184498048987264,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-08-16,4.643295399111739,5.745955277794436,6.018279642157943,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-08-23,4.474041641993889,5.481514346742117,5.8327016037026995,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-08-30,4.37798453599943,5.335599727959778,5.784758891728318,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-09-06,4.460866101639921,5.462744198176309,5.836609885343839,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-09-13,4.638389911546695,5.5311572549777015,6.060119614525243,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-09-20,4.782308559767533,5.434956461081274,6.110584529496277,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2027-09-27,4.643674852502694,5.357216794577617,6.077931566504187,Brazil HON|10-12 lb,Ensemble Naive+Prophet,Brazil HON,10-12 lb,USD/kg
+2026-04-06,7.107186671102431,7.937211830079972,8.574046654111552,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-04-13,6.810337777671062,7.871606332577036,8.273121616686947,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-04-20,6.710844659484872,7.776517454318377,8.221720946569155,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-04-27,6.796615668805856,7.598400881211264,8.286180129935952,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-05-04,6.902165803770507,7.341682906506492,8.349425218912367,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-05-11,6.850173488457303,7.4180568132772535,8.225542874047239,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-05-18,6.615436888560313,7.233776371055123,8.030500635193807,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-05-25,6.195159027613219,7.02922043909615,7.67569548833954,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-06-01,5.887859456820015,6.734842602141141,7.3135105584786855,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-06-08,5.65688410993648,6.629027116907958,7.101850004541594,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-06-15,5.518267980778161,6.5018959523772075,7.053493023853319,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-06-22,5.654370762000556,6.4549665225117305,7.077048970645818,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-06-29,5.822043200719606,6.4935343845735005,7.292150893346817,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-07-06,5.889889415518661,6.527836920327866,7.361387745507655,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-07-13,5.790421053880152,6.54773812929795,7.24964417519215,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-07-20,5.568408738072321,6.5375858286207045,7.052058435854954,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-07-27,5.357716264542156,6.2244483519274745,6.849637323700807,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-08-03,5.325967462424771,6.191338324787619,6.801762576478333,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-08-10,5.256945453530456,6.144239975564087,6.7823672536728665,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-08-17,5.077904088881861,6.030847788237031,6.543909814204579,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-08-24,4.925116069566017,5.697605887142354,6.417997306182093,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-08-31,4.8548683717822065,5.642725386461833,6.309661603491176,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-09-07,4.996338220221092,5.778551549439106,6.450454545232914,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-09-14,5.205389595189357,5.818547979847818,6.561360532348972,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-09-21,5.198702987332255,5.709156215518153,6.68924290630507,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-09-28,5.021288310598743,5.622634441145875,6.542094060380848,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-10-05,4.8669409891164745,5.684114109379715,6.331412753519315,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-10-12,4.849297291059104,5.8652863174663405,6.298261971548929,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-10-19,4.960116174478331,5.769689536027792,6.431460527079478,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-10-26,5.186680595345934,5.773867889617164,6.629895098628025,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-11-02,5.3483929361062525,5.86841986301709,6.854735794065224,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-11-09,5.256185725124313,5.843470586484601,6.6858824056011805,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-11-16,5.1958920422555845,5.963599579725107,6.686713455444818,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-11-23,5.082981114205481,6.136291750239703,6.599678626556885,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-11-30,5.214997273047503,6.025772392084233,6.681204237053929,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-12-07,5.444938923172067,5.963129495126715,6.870471751686648,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-12-14,5.511777498892591,5.955440173626176,7.029155474645398,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-12-21,5.736207402675216,6.036206734674537,7.260803053003776,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-12-28,6.137929122835974,6.160758307526377,7.607487152608861,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-01-04,6.434758563275759,6.67198004959245,7.826453313872712,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-01-11,6.542102391944554,6.849189094029881,7.9807538332063634,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-01-18,6.458212824144614,7.194692183764971,7.8710392808004315,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-01-25,6.321665312055752,7.53858039085901,7.754477053342316,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-02-01,6.241853076269743,7.328560628529537,7.679453361376114,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-02-08,6.2819046970598516,7.114327801664821,7.790261756579333,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-02-15,6.340724534323104,6.933903721011513,7.814869121852317,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-02-22,6.506804624853438,6.708049036500194,7.91480196822327,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-03-01,6.634516601953018,6.697395563523573,8.128391157212665,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-03-08,6.917080404648463,6.974463398642638,8.402970333686687,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-03-15,7.234689234994767,7.461130969554233,8.679630211974859,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-03-22,7.341213260647393,7.563302251161522,8.741038441683635,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-03-29,7.14740148328248,8.4934313154494,8.699387940137798,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-04-05,6.885781736894064,7.819084564524772,8.293408195608011,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-04-12,6.547703625983253,7.741132053484208,8.071664405962647,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-04-19,6.366230959261839,7.628063662567409,7.924045437088203,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-04-26,6.501368492842233,7.442069600052033,7.96801396944168,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-05-03,6.634883854195506,7.192446749655209,8.031273589379072,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-05-10,6.486008844483613,7.283898598769932,7.961135260613938,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-05-17,6.27817016139959,7.112818436462652,7.766900392862789,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-05-24,5.984506730777109,6.913984716408753,7.44276020813736,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-05-31,5.6643781021217965,6.616368304772166,7.094831031989215,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-06-07,5.380345019752772,6.498896877021438,6.862087409079932,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-06-14,5.241490380040409,6.35561187167814,6.7274698459623705,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-06-21,5.326934003327869,6.296704714962029,6.792468518617454,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-06-28,5.482905425014435,6.335974849721743,6.949755775360218,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-07-05,5.622523146195507,6.383264035902661,7.081834569976795,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-07-12,5.469887734428229,6.4174049329952885,6.9940821148534384,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-07-19,5.283781405979975,6.411224001252526,6.777891237001361,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-07-26,5.133338780924763,6.0918031113652376,6.636775864869615,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-08-02,5.101111711760682,6.053116553308767,6.540977135237457,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-08-09,4.9195194714967485,6.009389170347637,6.417118162450306,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-08-16,4.910766889196542,5.903163506805994,6.345409324362774,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-08-23,4.655795144314868,5.5684086018199865,6.091594376520855,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-08-30,4.56612410330546,5.4999075180284915,6.067100221080097,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-09-06,4.618684411272791,5.622132313220584,6.050247909247302,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-09-13,4.8033053821182445,5.663491633772202,6.310785765641712,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-09-20,4.868703401430521,5.5702776442976045,6.396819807981622,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2027-09-27,4.783182803903339,5.49800860850978,6.311017992349156,Brazil HON|12-14 lb,Ensemble Naive+Prophet,Brazil HON,12-14 lb,USD/kg
+2026-04-06,7.219892293651847,8.027408497767496,8.63290369716593,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-04-13,6.910810778246072,7.921575369355247,8.277193941508164,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-04-20,6.807082293638251,7.817588628769839,8.154654835366001,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-04-27,6.826506105627449,7.619965776813032,8.213109763179217,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-05-04,6.897719131010787,7.39315527007574,8.287468625782312,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-05-11,6.848405588602669,7.495151484981804,8.24471556734532,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-05-18,6.577721941926168,7.2800380300358665,7.978766263192443,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-05-25,6.2669587894176555,7.084718039123958,7.713775678091472,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-06-01,5.905992739411834,6.7804171434290845,7.385520631634705,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-06-08,5.755660418013207,6.69745544561774,7.119963442342329,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-06-15,5.599469219561115,6.544553482143417,7.014622740649503,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-06-22,5.716898343016808,6.562208093342681,7.096849608703585,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-06-29,5.93404420895111,6.63242087578094,7.285797028445129,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-07-06,5.921713948341361,6.587761312802267,7.28564135947348,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-07-13,5.823574281233396,6.6216367867173815,7.243443527804322,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-07-20,5.611261812875174,6.608853569756504,7.051079013515655,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-07-27,5.469203106079563,6.304456480378118,6.9291085987071925,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-08-03,5.3790748000265785,6.274668247040909,6.839193803649061,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-08-10,5.36777649869282,6.220259215777885,6.724542876015823,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-08-17,5.153302539809977,6.113974211282931,6.598192785500637,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-08-24,4.9845596851404865,5.763360719241966,6.35517240283439,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-08-31,4.909914178559981,5.740760593720891,6.340582211811703,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-09-07,5.0002136372070085,5.824152496833593,6.435724665644026,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-09-14,5.15657417177145,5.892683872021229,6.583090790673118,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-09-21,5.251034036533745,5.759851530190723,6.672914414512424,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-09-28,5.117109753745333,5.726255634696495,6.554992309596377,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-10-05,4.902850214688121,5.682439965331442,6.35439277609003,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-10-12,4.961594862475161,5.917897869724358,6.352014266882093,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-10-19,5.026414521546538,5.8694671144708535,6.53297042224015,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-10-26,5.296774284285538,5.808013871056804,6.666369270320405,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-11-02,5.379448510680264,5.944459844307996,6.692596775259772,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-11-09,5.328794349823687,5.960319712484886,6.760562922849894,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-11-16,5.285259813089557,6.023260389967947,6.658126512298272,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-11-23,5.232333343828505,6.259424223658876,6.629664475967171,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-11-30,5.347002866702088,6.213053218602697,6.7749012325642655,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-12-07,5.460650157194145,6.102126429066356,6.907798980591523,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-12-14,5.683574808777523,6.094913597665983,7.067322693636044,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-12-21,5.950435095853343,6.16322147717583,7.323550382992714,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-12-28,6.207096367810346,6.2618024810685675,7.559677619527939,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-01-04,6.473468126532047,6.753142118129263,7.869832724258989,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-01-11,6.560208670398235,6.928352739664087,7.9648182949687,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-01-18,6.5207522530294035,7.151886782604679,7.894295517605737,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-01-25,6.300723072560222,7.609143427131893,7.7520251669839695,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-02-01,6.241407981659839,7.407977723285803,7.7098068411906056,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-02-08,6.379738860761482,7.196340337757437,7.717822338679788,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-02-15,6.505892188015995,7.037978145773362,7.865533537907261,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-02-22,6.622827216479168,6.788041902049892,7.962469147133125,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-03-01,6.691664069845761,6.787547819035433,8.136952424263884,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-03-08,6.9884550320114975,7.0548568870969,8.425388064071576,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-03-15,7.330620851743536,7.563626296836969,8.651238741604608,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-03-22,7.376605703967315,7.637001114056666,8.753222550253318,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-03-29,7.278279191731716,8.583210543570113,8.614613062531204,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-04-05,6.9538939028708935,7.902560355808561,8.31778872848913,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-04-12,6.612268170442613,7.784673807357686,7.983171292877243,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-04-19,6.506486796578639,7.6627466899235674,7.884205461098927,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-04-26,6.519313669462903,7.457200469629685,7.887255036250596,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-05-03,6.64756410264749,7.23718900647339,8.015189961552764,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-05-10,6.541793426802327,7.353544016930114,7.944734824133148,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-05-17,6.3628545957896945,7.150780792444468,7.72897413449059,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-05-24,5.988113011245955,6.9608416213670115,7.449877770601408,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-05-31,5.6938465779090155,6.653800869467969,7.077989433811433,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-06-07,5.430378501401616,6.560147018253501,6.829271735336183,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-06-14,5.35542357456413,6.3918033993114705,6.661115337035866,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-06-21,5.40352581288953,6.397578433012793,6.792441859259542,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-06-28,5.529406786722425,6.468193400578825,6.982656886407923,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-07-05,5.610841101795182,6.43620804216134,7.048590415270467,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-07-12,5.581020341487313,6.484129894727274,6.9299498183084625,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-07-19,5.345493283382648,6.475198654772543,6.807455725391068,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-07-26,5.263582930651003,6.164576501902612,6.576494448468367,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-08-02,5.10147236309174,6.129672784730179,6.471965968981657,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-08-09,5.038726233192635,6.079425506387269,6.4141405009337085,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-08-16,4.88792423867926,5.980881791206798,6.320408632365409,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-08-23,4.729054696971463,5.628579133940001,6.127067131855015,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-08-30,4.642852705937614,5.591559535949485,6.062157160476279,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-09-06,4.705095856578438,5.660683854663526,6.173319034765905,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-09-13,4.898955908000264,5.730623614884735,6.29349244975512,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-09-20,4.94945335974622,5.614483534872131,6.369160323687139,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2027-09-27,4.879900980691241,5.5953959947749095,6.31141055964032,Brazil HON|14-16 lb,Ensemble Naive+Prophet,Brazil HON,14-16 lb,USD/kg
+2026-04-06,5.913944069615233,6.391414500762481,6.655159706590223,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-04-13,5.859134493907952,6.417886968545738,6.616628821078553,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-04-20,5.906874322827318,6.360797208118184,6.633900010909817,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-04-27,5.9465122434302735,6.351338942516555,6.7061957851640255,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-05-04,5.971056358632175,6.4430063561728605,6.709620024194398,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-05-11,5.915929080200554,6.4274066074573515,6.651085927056753,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-05-18,5.8434111504411375,6.513610247209353,6.593250284768699,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-05-25,5.766143557761729,6.519371949060671,6.486909678873624,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-06-01,5.638970866716737,6.324258998935912,6.3521053365807045,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-06-08,5.446674353302275,6.15328313893263,6.193464726233172,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-06-15,5.283617118184999,6.023174536660196,6.023938614586548,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-06-22,5.145257945563737,5.763434452916647,5.884774133532802,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-06-29,5.003154683616397,5.568321363481631,5.737127504828285,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-07-06,4.917371668041907,5.424335976961318,5.6627511799885575,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-07-13,4.891689271500843,5.478021003793179,5.60088777361442,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-07-20,4.8733794977979805,5.4202734218412045,5.608434891057726,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-07-27,4.932836963039638,5.361933176779716,5.649162919671538,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-08-03,4.990901845985169,5.358994167145586,5.732970063388733,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-08-10,4.98046998790773,5.353368465139539,5.710269141442491,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-08-17,4.952620075072669,5.292091563210343,5.698711608674683,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-08-24,4.854456101738779,5.252463417960734,5.5887903625797195,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-08-31,4.824976466458111,5.206033519697671,5.561170043734882,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-09-07,4.90262004154785,5.225365629102713,5.610799790306177,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-09-14,4.968698830148769,5.2457028512027275,5.695957037288954,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-09-21,5.014072972627152,5.304881787991371,5.7548285511413235,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-09-28,4.992200544407427,5.284090430379355,5.744812227382419,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-10-05,4.91613767792732,5.261612977178209,5.669739409108102,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-10-12,4.875275374033344,5.357585797733856,5.598744875291486,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-10-19,4.8938152047001395,5.303510176520076,5.622139640522522,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-10-26,4.926449119875436,5.3279896164433875,5.648840860671441,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-11-02,4.97569224668716,5.245531122600795,5.716530532378135,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-11-09,4.989439877680619,5.208715018170938,5.700247296358383,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-11-16,4.925723083503521,5.201451250599392,5.682376116475039,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-11-23,4.926847027046692,5.359053893737446,5.659434188707906,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-11-30,4.937013246269845,5.332424715341684,5.659271953157379,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-12-07,4.976220750566274,5.308868890572124,5.71267924379938,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-12-14,5.096667301537851,5.337489169712697,5.838280603252592,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-12-21,5.239961390629505,5.43974649413251,5.987590054522931,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-12-28,5.384852658856536,5.49593674165223,6.154990615809453,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-01-04,5.5103773454621985,5.647677141210398,6.249213843609477,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-01-11,5.580009380499385,5.902231735901768,6.3457905539596915,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-01-18,5.661479353032987,6.150992093471399,6.392376557909409,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-01-25,5.731519315646155,6.334857579176317,6.449680672623347,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-02-01,5.833976428589888,6.378788921169036,6.566503236395414,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-02-08,5.937086720796315,6.422275021823444,6.673569192879498,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-02-15,6.013405435933271,6.2304911570156225,6.749928203496796,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-02-22,6.067425208200899,6.123583046779044,6.775118326186817,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-03-01,6.005313541631313,6.109591583555863,6.799393681397606,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-03-08,6.020361709591496,6.2455253642119875,6.765799533689551,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-03-15,5.990014862371994,6.403639386148121,6.733789449958112,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-03-22,5.947064503792514,6.386451453877454,6.687476267108263,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-03-29,5.881729376191562,6.476491742859184,6.574873219864386,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-04-05,5.7682723472101705,6.332188831171375,6.4915291820988665,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-04-12,5.758166188285102,6.353825171477194,6.493834827227549,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-04-19,5.769460831369916,6.293153556173804,6.514686530852722,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-04-26,5.811505140652074,6.284144367932683,6.565392936105115,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-05-03,5.836756544460729,6.3795896066088345,6.61008739506339,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-05-10,5.779582837763981,6.368343449696802,6.52734256991242,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-05-17,5.709149653650064,6.457778124211934,6.476296796166413,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-05-24,5.645461955282361,6.466037990866196,6.374459419259959,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-05-31,5.50876386955601,6.273458331666394,6.2464328185253155,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-06-07,5.376189722829975,6.104516318848828,6.095006276247775,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-06-14,5.187755670010398,5.974685195229897,5.946773800812115,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-06-21,5.01500423467482,5.713185852736599,5.776629729556846,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-06-28,4.891268955111808,5.5152102199474795,5.641104460568441,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-07-05,4.800427600298034,5.367949778388169,5.54966757040292,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-07-12,4.728269610678911,5.417656500020521,5.469322427358573,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-07-19,4.739672492962096,5.3553528229695235,5.46794095594233,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-07-26,4.776685440607357,5.293950330423783,5.548768133851224,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-08-02,4.8650037280186815,5.292202980123834,5.58214834608636,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-08-09,4.850129127627339,5.291997071861756,5.59667221479921,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-08-16,4.828214619127435,5.236091311413784,5.565184429279477,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-08-23,4.755547301237103,5.196606415082476,5.460155142648102,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-08-30,4.683051197765403,5.144363864477095,5.4267729020262365,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-09-06,4.7379847365775865,5.15706030793047,5.482366656846202,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-09-13,4.81045712183467,5.176186590452563,5.552204527707237,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-09-20,4.877373533079491,5.240683467306443,5.60674646893743,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2027-09-27,4.873476604682569,5.2266009471343216,5.590729341146274,USA Fillet|2/3,Ensemble Naive+Prophet,USA Fillet,2/3,USD/lb
+2026-04-06,5.991169301513132,6.475968631510028,6.71883251260908,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-04-13,5.9781270050127695,6.462319398862016,6.706800745929672,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-04-20,5.965082222038751,6.430593888421875,6.705969322246095,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-04-27,5.95582972169103,6.4159990312772734,6.70763105837138,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-05-04,5.963913693898685,6.575386753507411,6.695048863420473,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-05-11,5.937487893201761,6.5463741013223995,6.666032906812729,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-05-18,5.898594578690173,6.551447615884502,6.623489196697074,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-05-25,5.840475041207361,6.514480688008171,6.540031445993421,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-06-01,5.682709976990206,6.335460546138032,6.418696327948639,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-06-08,5.516022526767892,6.188701060905265,6.247682016922414,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-06-15,5.349465751440803,6.074555967683809,6.104299052570557,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-06-22,5.205835403286233,5.8608563999569725,5.947644899959682,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-06-29,5.066732878758446,5.652259143045572,5.793180128518367,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-07-06,5.01553111692224,5.572704897685606,5.725860208874175,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-07-13,4.979839063037577,5.585091956660927,5.744621714618032,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-07-20,4.986912318587203,5.594880876237587,5.750298563491207,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-07-27,5.019931188882928,5.487495976931653,5.770589031888115,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-08-03,5.051576654717453,5.474242535460378,5.803063685677616,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-08-10,5.068089330071319,5.436718089262208,5.7920636063499655,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-08-17,4.985763937722351,5.3782462497232775,5.713949171266139,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-08-24,4.900542594145296,5.351595723216346,5.619781327920084,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-08-31,4.864753399315035,5.277989994849078,5.572002563782445,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-09-07,4.87158426508035,5.292052221681258,5.604240247861869,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-09-14,4.974553928404345,5.296838054187113,5.673124401462034,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-09-21,5.026740914287389,5.323179832948174,5.75357309733797,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-09-28,4.999881601489349,5.297668158367661,5.725070710248494,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-10-05,4.930356997245039,5.272383371093898,5.661270362941429,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-10-12,4.874098844371829,5.388571268483936,5.595809798169022,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-10-19,4.9033403521914085,5.358515375742497,5.635767994489549,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-10-26,4.930464116116377,5.34196802260879,5.668850446273388,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-11-02,5.011352178971083,5.289361108769352,5.730216043832838,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-11-09,4.960351405178209,5.238106070071704,5.670059535950278,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-11-16,4.903144085179188,5.215755029253025,5.6501554301125045,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-11-23,4.900118761739428,5.37252919333398,5.5972283402416885,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-11-30,4.930780806410218,5.3720532701948365,5.644625147764161,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-12-07,5.032264383539501,5.375536522620106,5.769472494897568,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-12-14,5.181405072946725,5.369149722341145,5.912892363565566,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-12-21,5.32052129550431,5.420807132310745,6.042019247669429,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-12-28,5.438826178474694,5.551470559713797,6.170459868085642,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-01-04,5.545171135102396,5.653429871085058,6.277125181959107,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-01-11,5.63089467471498,5.900952622743662,6.30998408163105,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-01-18,5.678956086258886,6.179234760191575,6.401214504426466,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-01-25,5.731578305264956,6.3623767765204855,6.466035735543348,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-02-01,5.81771836304566,6.385794638631878,6.539039487936892,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-02-08,5.867676399645641,6.409540116101153,6.58619762535652,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-02-15,5.922224110953424,6.23105002772306,6.672827452455591,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-02-22,5.966415464129094,6.166900163364588,6.720574241174487,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-03-01,6.055081063730812,6.165417719459255,6.782503488619086,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-03-08,6.025620633365062,6.29205917093433,6.752252630449853,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-03-15,6.012037244040705,6.399933601424392,6.7346537965929185,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-03-22,5.986365437674376,6.453000362402164,6.708997688263184,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-03-29,5.892112835727269,6.585744732128019,6.66199683018577,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-04-05,5.878032813345064,6.405596768992513,6.593052284963509,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-04-12,5.84528926218012,6.389359027329896,6.554444066914475,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-04-19,5.80053516518217,6.355928244685568,6.556810196932165,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-04-26,5.821669269766796,6.341527107865802,6.58920722728654,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-05-03,5.847738332886933,6.50243460584854,6.557231354571927,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-05-10,5.794553814609055,6.475326623636471,6.527934361217294,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-05-17,5.750944371578366,6.4827524875354925,6.479111700181078,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-05-24,5.691414427845652,6.449284348686676,6.429101641336682,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-05-31,5.5829414237952255,6.274597297120619,6.318180946650424,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-06-07,5.43282267347316,6.1310764638017945,6.16192412937939,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-06-14,5.221996852815323,6.017086932747015,5.944702104412958,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-06-21,5.075594585036205,5.800409389503581,5.8068298261646,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-06-28,4.928908771881489,5.587556771706357,5.697553324600869,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-07-05,4.8825266468068165,5.504201265785072,5.607913249511111,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-07-12,4.85241202583524,5.513437894990252,5.592845381522524,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-07-19,4.82944739880321,5.520390932671306,5.56480310370586,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-07-26,4.876239605510223,5.411453499280336,5.616397486896547,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-08-02,4.92049106063323,5.399860540051704,5.649583443357027,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-08-09,4.91611561958363,5.367323974029443,5.65279394600012,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-08-16,4.878728284720253,5.3137304285789675,5.61646079477388,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-08-23,4.779524235353371,5.287244542635207,5.538060998497652,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-08-30,4.743087467542622,5.208122118606072,5.440249611441689,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-09-06,4.72613870583465,5.2155488116010975,5.460178309776744,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-09-13,4.809953605400851,5.2187608694482135,5.551530681946886,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-09-20,4.842046384616976,5.250175440548347,5.570648392094321,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2027-09-27,4.854928627513947,5.23146555364365,5.580046014202244,USA Fillet|3/4,Ensemble Naive+Prophet,USA Fillet,3/4,USD/lb
+2026-04-06,6.15313203844059,6.540722313609606,6.841009719706547,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-04-13,6.089965691618342,6.573442180358766,6.8091603450861085,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-04-20,6.078299974702214,6.537729872666631,6.7890378446561686,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-04-27,6.0283827507364744,6.5023837920012095,6.8006591321595895,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-05-04,6.057042016656293,6.657614483310382,6.797498137758275,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-05-11,6.072628505253804,6.641411399909071,6.753931960248947,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-05-18,6.007317249910122,6.64533240508851,6.733916775657331,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-05-25,5.948214510924099,6.6373276895224915,6.671487767410958,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-06-01,5.824611867120469,6.4607570325756924,6.52893032825519,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-06-08,5.659033153311037,6.2681806353111424,6.358924058697683,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-06-15,5.479406173445458,6.17812405012235,6.199706060148617,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-06-22,5.325834219469931,5.977437738752432,6.042726766241873,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-06-29,5.24605349079667,5.796031207391385,5.939778943635342,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-07-06,5.183271692793584,5.738667436060753,5.90404499846005,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-07-13,5.15059685311342,5.732823477807136,5.86445621068646,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-07-20,5.117233653722954,5.7177602468706255,5.821259465644221,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-07-27,5.1304531628876875,5.656637535274216,5.838276297144989,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-08-03,5.111795954952403,5.595333339953369,5.865369176692468,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-08-10,5.138110539117353,5.632137752259277,5.84240844956601,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-08-17,5.064263477989802,5.545064161938028,5.781074234532467,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-08-24,4.96891096851432,5.515790018506282,5.68137218805961,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-08-31,4.914504469837427,5.418303465069959,5.643107764472743,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-09-07,4.9520503092689285,5.4703558250878626,5.6780798255370435,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-09-14,5.064705024802526,5.502097688018999,5.7758886820812165,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-09-21,5.129392979481639,5.450455152268224,5.870293351294987,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-09-28,5.095864487676649,5.4322866349877375,5.813471971982307,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-10-05,5.023763424603646,5.444948575537257,5.697891494323291,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-10-12,4.94376916793995,5.517558758007741,5.65959632592385,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-10-19,4.926831936272801,5.469957786506079,5.669519767417657,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-10-26,5.017247285780439,5.527014159763311,5.736059007029689,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-11-02,5.032494899430481,5.416071430615158,5.754338617876382,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-11-09,5.01398760345477,5.423891712178622,5.715948224419085,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-11-16,5.01564361463072,5.376006804254074,5.712008796573419,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-11-23,5.027980872585796,5.49824856517254,5.719939091498624,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-11-30,5.098790881880486,5.4760528585919666,5.804701734951764,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-12-07,5.198352750244185,5.5258361586702245,5.940077960605708,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-12-14,5.292972631080792,5.5720823737390965,5.9748962024585826,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-12-21,5.413312845958096,5.482385949119198,6.126534076405923,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2026-12-28,5.576077523661828,5.7411370248457345,6.296047881938388,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-01-04,5.753941983015599,5.879799637206906,6.450171650731621,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-01-11,5.890253246994165,6.133577757037119,6.603639006376026,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-01-18,5.947202367914118,6.366683759693358,6.660258901265465,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-01-25,5.923894687388958,6.4357867166919736,6.650441546370421,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-02-01,5.854682576218645,6.44665047155646,6.5897448703919785,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-02-08,5.870729938368334,6.436065520340575,6.625956624538779,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-02-15,5.982472290565748,6.34966000568303,6.649218944276328,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-02-22,6.044402428258608,6.288175458034308,6.769745533645237,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-03-01,6.146877895746069,6.2847999056428066,6.86772467216651,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-03-08,6.197545158683144,6.438648556313906,6.894902073292264,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-03-15,6.166739408156972,6.422619533111144,6.852818165806921,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-03-22,6.106164270770084,6.559217656918503,6.838819935154937,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-03-29,6.0641334202324835,6.732251631769175,6.753042099467897,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-04-05,5.981862562954625,6.466966917339917,6.693817598372194,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-04-12,5.953202783840992,6.497338665926781,6.649854024502135,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-04-19,5.900020444139494,6.4595603469274625,6.621411215623404,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-04-26,5.881372015610643,6.423735587829332,6.619469687805115,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-05-03,5.910143082154995,6.579665770568493,6.590295242486926,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-05-10,5.910650701636837,6.564535989280424,6.619124029580911,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-05-17,5.872200162333625,6.570455078515139,6.583789306433115,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-05-24,5.8200468152483165,6.566591109745048,6.523050937381177,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-05-31,5.699669108409181,6.3956462546130375,6.424211200258003,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-06-07,5.531344116894261,6.20694404556305,6.259470400659199,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-06-14,5.360855154507473,6.116092099622145,6.052568938448517,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-06-21,5.186106560472556,5.910702803681051,5.9168509029160035,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-06-28,5.089011377374675,5.724549703893907,5.815434122045731,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-07-05,5.033668833099984,5.665115912769506,5.7500351162586005,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-07-12,4.982013311746818,5.658710094965702,5.699739450044575,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-07-19,4.972656476342362,5.641901576307272,5.68521992738083,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-07-26,4.960170154216904,5.5781182267954215,5.6893540347558265,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-08-02,4.996330021996561,5.516871609677467,5.696894356739559,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-08-09,5.0195955188504335,5.558520529758935,5.708034738303853,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-08-16,4.928454525793888,5.477390357730065,5.656569169648861,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-08-23,4.831895495879671,5.448443756736509,5.550503160071844,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-08-30,4.762430056249411,5.3435374443861425,5.478585357331315,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-09-06,4.782922219606593,5.386521489089885,5.503510048914915,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-09-13,4.909371314595024,5.416334574256019,5.595744352564866,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-09-20,4.996313594484141,5.372050777410777,5.708641878867393,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
+2027-09-27,4.959875074317193,5.363392899764614,5.681848800486844,USA Fillet|4/5,Ensemble Naive+Prophet,USA Fillet,4/5,USD/lb
