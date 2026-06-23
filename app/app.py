@@ -104,32 +104,37 @@ wide_updated = append_incremental(
     wide_new
 )
 
-st.success(
-    f"Histórico actualizado: {wide_updated.shape[0]} semanas"
-)
-
 # ---------------------------
-# Variación de precios recientes
+# Resumen del archivo recibido
 # ---------------------------
-
-st.subheader("📊 Variación de precios recientes")
 
 var_df = price_variation_summary(wide_updated)
 
-delta_cols = [c for c in var_df.columns if c.startswith("Δ")]
+last_date = wide_updated.index.max()
+iso_year, iso_week, _ = last_date.isocalendar()
 
-def _color_delta(val):
-    if val is None or (isinstance(val, float) and pd.isna(val)):
-        return ""
-    return "color: #2a9d8f" if val > 0 else "color: #c1502e" if val < 0 else ""
-
-st.dataframe(
-    var_df.style
-        .format({"precio_actual": "{:.2f}"})
-        .format({c: lambda v: f"{v:+.1f}%" if v == v else "—" for c in delta_cols})
-        .map(_color_delta, subset=delta_cols),
-    use_container_width=True,
+st.success(
+    f"**Archivo recibido** · Semana {iso_year}-{iso_week:02d} · "
+    f"{len(wide_updated.columns)} series actualizadas · "
+    f"Última actualización: {last_date.strftime('%-d-%b-%Y')}"
 )
+
+card_cols = st.columns(3)
+for i, col_name in enumerate(wide_updated.columns):
+    s = wide_updated[col_name].dropna()
+    precio_actual = s.iloc[-1]
+    label = col_name.replace("|", " ").replace(" lb", "")
+
+    if len(s) >= 2 and pd.notna(s.iloc[-2]):
+        delta_pct = (precio_actual / s.iloc[-2] - 1) * 100
+        delta_str = f"{delta_pct:+.1f}%"
+    else:
+        delta_str = None
+
+    with card_cols[i % 3]:
+        st.metric(label=label, value=f"{precio_actual:.2f}", delta=delta_str)
+
+st.divider()
 
 # ---------------------------
 # Entrenar
