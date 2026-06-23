@@ -23,6 +23,7 @@ from src.backtest import (
 from src.forecasting import (
     generate_forecast_all,
     generate_prophet_band_all,
+    generate_ensemble_band_all,
     save_forecast
 )
 
@@ -156,6 +157,13 @@ if st.button("🚀 Reentrenar y Forecast"):
         if best_model == "Prophet":
 
             forecast_df = generate_prophet_band_all(
+                wide_updated,
+                horizon=HORIZON
+            )
+
+        elif best_model == "Ensemble Naive+Prophet":
+
+            forecast_df = generate_ensemble_band_all(
                 wide_updated,
                 horizon=HORIZON
             )

@@ -80,6 +80,24 @@ def m_prophet_band(train, horizon, interval=0.80):
     return fc[["ds", "yhat_lower", "yhat", "yhat_upper"]]
 
 
+def m_ensemble(train, horizon):
+    return (m_naive(train, horizon) + m_prophet(train, horizon)) / 2
+
+
+def m_ensemble_band(train, horizon, interval=0.80):
+    naive_fc = m_naive(train, horizon)
+    model = fit_prophet(train, interval=interval)
+
+    future = model.make_future_dataframe(periods=horizon, freq="W-MON")
+    future["floor"] = model._floor
+    future["cap"] = model._cap
+
+    fc = model.predict(future).iloc[-horizon:].reset_index(drop=True)
+    fc["yhat"] = (naive_fc + fc["yhat"].values) / 2
+
+    return fc[["ds", "yhat_lower", "yhat", "yhat_upper"]]
+
+
 def m_sarima(train, horizon):
     try:
         model = SARIMAX(
@@ -100,5 +118,6 @@ def m_sarima(train, horizon):
 MODELS = {
     "Naive estacional": m_naive,
     "Prophet": m_prophet,
+    "Ensemble Naive+Prophet": m_ensemble,
     "SARIMA": m_sarima,
 }

@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-from src.models import MODELS, m_prophet_band
+from src.models import MODELS, m_prophet_band, m_ensemble_band
 
 
 def generate_forecast_for_series(series, model_name, horizon=78):
@@ -55,6 +55,33 @@ def generate_prophet_band_all(wide, horizon=78, interval=0.80):
 
         fc["serie"] = col
         fc["modelo"] = "Prophet"
+
+        producto, calibre = col.split("|")
+        fc["producto"] = producto
+        fc["calibre"] = calibre
+        fc["unidad"] = "USD/kg" if producto == "Brazil HON" else "USD/lb"
+
+        outputs.append(fc)
+
+    return pd.concat(outputs, ignore_index=True)
+
+
+def generate_ensemble_band_all(wide, horizon=78, interval=0.80):
+    outputs = []
+
+    for col in wide.columns:
+        s = wide[col].dropna()
+        fc = m_ensemble_band(s, horizon=horizon, interval=interval)
+
+        fc = fc.rename(columns={
+            "ds": "fecha",
+            "yhat_lower": "forecast_lower",
+            "yhat": "forecast",
+            "yhat_upper": "forecast_upper",
+        })
+
+        fc["serie"] = col
+        fc["modelo"] = "Ensemble Naive+Prophet"
 
         producto, calibre = col.split("|")
         fc["producto"] = producto
