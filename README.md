@@ -207,4 +207,3 @@ jupyter notebook notebooks/00_eda.ipynb
 
 **Stack:** Python · pandas · numpy · statsmodels (STL) · Prophet · matplotlib.
 
-> Nota: ajusta los nombres de los scripts dentro de `src/` y las instrucciones de la `app/` a los reales de tu repositorio.
