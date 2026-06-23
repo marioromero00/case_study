@@ -70,11 +70,12 @@ Decisiones de limpieza conservadoras, pensadas para no introducir sesgo:
 
 | Modelo | Rol | Descripción |
 |---|---|---|
-| Naive | Línea base (rival a vencer) | Proyecta que el precio futuro será igual al último observado. Si un modelo sofisticado no le gana, no justifica su complejidad. |
-| Prophet | Candidato | Modelo aditivo que descompone la serie en tendencia y estacionalidad de forma flexible. Robusto ante datos faltantes y atípicos. |
-| SARIMA | Candidato | Modelo estadístico clásico que captura estacionalidad y autocorrelación de forma explícita. |
+| Naive estacional | Línea base (rival a vencer) | Proyecta el precio de hace 52 semanas — benchmark difícil de superar para commodities mean-reverting. |
+| Prophet (logístico) | Candidato | Logístico acotado, prior rígido (0.02) — estable, captura estacionalidad anual y tendencia no lineal. |
+| Ensemble Naive + Prophet | **Ganador** | Promedio simple de los dos modelos anteriores: cancela errores idiosincráticos y reduce el MAPE en todos los horizontes. |
+| SARIMA | Referencia estadística | Modelo clásico estacional (1,1,1)(1,0,1,26) — alternativa para comparación. |
 
-### Validación: backtesting expansivo
+### Validación: backtesting con origen móvil
 
 No se usa un split aleatorio, porque rompería la causalidad temporal de la serie. En su lugar:
 
@@ -87,20 +88,30 @@ No se usa un split aleatorio, porque rompería la causalidad temporal de la seri
   - Largo: semanas 53–78
 - **Métrica: MAPE** (robusto, excluye divisiones por valores cercanos a cero).
 
-El modelo ganador es el que minimiza el MAPE en cada horizonte.
+### Resultados del backtesting (MAPE medio — 4 folds · 6 series)
+
+| Modelo | Corto 1-26 | Medio 27-52 | Largo 53-78 | **Global** |
+|--------|-----------|------------|------------|----------|
+| **Ensemble Naive+Prophet** | **6.56 %** | **7.56 %** | **9.78 %** | **7.96 %** |
+| Naive estacional | 6.84 % | 8.17 % | 10.45 % | 8.49 % |
+| Prophet (orig) | 7.46 % | 7.79 % | 10.65 % | 8.63 % |
+| SARIMA | 12.09 % | 9.04 % | 15.28 % | 12.14 % |
+
+El Ensemble gana en **todos los horizontes** (−6.3 % vs Naive solo): el Naive ancla el patrón estacional anual sin asumir tendencia; Prophet aporta estructura paramétrica que corrige el drift intra-año. El promedio simple reduce la varianza sin añadir parámetros.
 
 ---
 
 ## 6. Forecast a 18 meses
 
-- Modelo seleccionado: **Prophet con tendencia logística acotada**.
-- Se entrega un **rango de incertidumbre** (bandas P10–P90), no una línea única.
+- Modelo seleccionado: **Ensemble Naive + Prophet** (MAPE global 7.96 %).
+- El **P50** es el promedio de la predicción Naive estacional y la de Prophet logístico.
+- Las **bandas P10–P90** provienen de Prophet (modelo probabilístico), usado como estimador de la incertidumbre.
 - La incertidumbre se ensancha con el horizonte: la confianza a corto plazo no es la misma que a 18 meses.
 
 ### Supuestos del forecast
 
-1. **Tendencia logística acotada:** los precios tienen techo y piso de mercado; no crecen ni caen indefinidamente.
-2. **Estacionalidad anual fija:** el patrón pico/valle se mantiene a lo largo del horizonte.
+1. **Tendencia logística acotada (Prophet):** los precios tienen techo y piso de mercado; no crecen ni caen indefinidamente.
+2. **Patrón estacional anual (Naive):** el precio de hace 52 semanas es el ancla estacional del ensemble.
 3. **Continuidad del régimen histórico:** no ocurren shocks estructurales nuevos (sanitarios, regulatorios, de mercado) durante el período proyectado.
 4. **Solo precios propios:** el forecast se construye con el histórico de cada serie, sin variables externas.
 
@@ -165,8 +176,10 @@ case_study/
 ├── app/                 # Solución digital: dashboard + carga incremental
 ├── data/                # Datos crudos y procesados
 ├── notebooks/
-│   └── 00_eda.ipynb     # Análisis exploratorio (EDA)
-├── src/                 # Preprocesamiento, backtesting y modelamiento
+│   ├── 00_eda.ipynb     # Análisis exploratorio (EDA)
+│   ├── 01_data_prep.ipynb   # Preprocesamiento y limpieza
+│   └── 02_modeling.ipynb    # Backtesting y forecast (banco de pruebas de modelos)
+├── src/                 # Módulos reutilizables (carga incremental, helpers)
 ├── requirements.txt     # Dependencias
 └── README.md
 ```
@@ -183,8 +196,10 @@ python -m venv .venv
 source .venv/bin/activate      # En Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# 3. Ejecutar el EDA
+# 3. Ejecutar los notebooks en orden
 jupyter notebook notebooks/00_eda.ipynb
+# jupyter notebook notebooks/01_data_prep.ipynb
+# jupyter notebook notebooks/02_modeling.ipynb
 
 # 4. Levantar la app / dashboard
 # (ver instrucciones específicas en la carpeta app/)
