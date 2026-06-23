@@ -138,39 +138,21 @@ st.dataframe(
 if st.button("🚀 Reentrenar y Forecast"):
 
     with st.spinner("Backtesting modelos..."):
-
-        bt = run_backtest(
-            wide_updated,
-            MODELS,
-            horizon=HORIZON,
-            n_folds=4,
-            step=13
-        )
-
+        bt = run_backtest(wide_updated, MODELS, horizon=HORIZON, n_folds=4, step=13)
         summary = summarize_backtest(bt)
+        best_model, ranking = select_best_model(bt, tramo="corto 1-26")
 
-        best_model, ranking = select_best_model(
-            bt,
-            tramo="corto 1-26"
-        )
+    best_mape_corto = ranking.iloc[0]["MAPE_%"]
+    best_mape_global = bt[bt["modelo"] == best_model]["MAPE_%"].mean()
 
-    st.success(
-        f"Mejor modelo seleccionado: {best_model}"
-    )
+    # -----------------------
+    # Modelo elegido + MAPEs
+    # -----------------------
 
-    st.subheader("Ranking modelos")
-
-    st.dataframe(
-        ranking,
-        use_container_width=True
-    )
-
-    st.subheader("Backtest")
-
-    st.dataframe(
-        summary,
-        use_container_width=True
-    )
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Modelo elegido", best_model)
+    c2.metric("MAPE corto (1-26 sem)", f"{best_mape_corto:.1f}%")
+    c3.metric("MAPE global", f"{best_mape_global:.1f}%")
 
     # -----------------------
     # Forecast
@@ -179,80 +161,69 @@ if st.button("🚀 Reentrenar y Forecast"):
     with st.spinner("Generando forecast..."):
 
         if best_model == "Prophet":
-
-            forecast_df = generate_prophet_band_all(
-                wide_updated,
-                horizon=HORIZON
-            )
-
+            forecast_df = generate_prophet_band_all(wide_updated, horizon=HORIZON)
         elif best_model == "Ensemble Naive+Prophet":
-
-            forecast_df = generate_ensemble_band_all(
-                wide_updated,
-                horizon=HORIZON
-            )
-
+            forecast_df = generate_ensemble_band_all(wide_updated, horizon=HORIZON)
         else:
+            forecast_df = generate_forecast_all(wide_updated, best_model, horizon=HORIZON)
 
-            forecast_df = generate_forecast_all(
-                wide_updated,
-                best_model,
-                horizon=HORIZON
-            )
-
-        save_forecast(
-            forecast_df,
-            ROOT / "data" / "forecasts" / "forecast_latest.csv"
-        )
+        save_forecast(forecast_df, ROOT / "data" / "forecasts" / "forecast_latest.csv")
 
     # -----------------------
-    # Visualización
+    # Tabla: variación + forecast
     # -----------------------
 
-    selected_serie = st.selectbox(
-        "Serie",
-        list(wide_updated.columns)
+    st.subheader("Variación histórica y forecast")
+
+    biz = pd.DataFrame(business_summary(wide_updated, forecast_df)).set_index("serie")
+    combined = var_df.join(biz[["forecast_6m", "forecast_18m", "var_18m_%"]])
+    pct_cols = [c for c in combined.columns if c.startswith("Δ")] + ["var_18m_%"]
+
+    def _color_pct(val):
+        if val is None or (isinstance(val, float) and pd.isna(val)):
+            return ""
+        return "color: #2a9d8f" if val > 0 else "color: #c1502e" if val < 0 else ""
+
+    st.dataframe(
+        combined.style
+            .format("{:.2f}", subset=["precio_actual", "forecast_6m", "forecast_18m"])
+            .format(lambda v: f"{v:+.1f}%" if pd.notna(v) else "—", subset=pct_cols)
+            .map(_color_pct, subset=pct_cols),
+        use_container_width=True,
     )
+
+    # -----------------------
+    # Gráfico por serie
+    # -----------------------
+
+    st.subheader("Forecast por serie")
+
+    selected_serie = st.selectbox("Serie", list(wide_updated.columns))
 
     serie_hist = wide_updated[selected_serie].dropna()
+    serie_fc = forecast_df[forecast_df["serie"] == selected_serie].sort_values("fecha")
 
-    serie_fc = (
-        forecast_df[
-            forecast_df["serie"] == selected_serie
-        ]
-        .sort_values("fecha")
-    )
-
-    fig = plot_single_forecast(
-        serie_hist,
-        serie_fc,
-        title=selected_serie
-    )
-
+    fig = plot_single_forecast(serie_hist, serie_fc, title=selected_serie)
     st.pyplot(fig)
 
-    st.subheader("Resumen Ejecutivo")
+    # -----------------------
+    # Detalle backtest
+    # -----------------------
 
-    st.dataframe(
-        pd.DataFrame(
-            business_summary(
-                wide_updated,
-                forecast_df
-            )
-        ),
-        use_container_width=True
-    )
+    with st.expander("Detalle backtest"):
+        st.dataframe(
+            ranking.rename(columns={"MAPE_%": "MAPE% (corto 1-26)"}),
+            use_container_width=True,
+        )
+        st.dataframe(summary, use_container_width=True)
 
-    st.subheader("Forecast completo")
-
-    st.dataframe(
-        forecast_df,
-        use_container_width=True
-    )
+    # -----------------------
+    # Descarga
+    # -----------------------
 
     st.download_button(
         "📥 Descargar Forecast",
         forecast_df.to_csv(index=False),
         file_name="forecast_18_meses.csv",
-        mime="text/csv"
+        mime="text/csv",
     )
